@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "webpack",
-    "start": "webpack serve --open --watch --host 10.176.229.212"
+    "start": "webpack serve --open --host 10.176.229.212"
   },
   "dependencies": {
     "es6-promise": "~4.2.8",

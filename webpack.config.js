@@ -27,6 +27,7 @@ module.exports = {
   },
   devServer: {
     contentBase: './dev',
+    hot: true,
     headers: {
       'Access-Control-Allow-Origin': '*',
     }
